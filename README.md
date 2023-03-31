@@ -34,3 +34,7 @@ battles taking place inside computer hardware.
 
 # Sources
 Assets have been taken from Unity Assests Store, CGTrader, TurboSquid
+
+Tips: When shooting an enemy, point the laser such that it intersects the enemy.
+For movement on a bridge use 'W+D' and 'S+D' keys.
+Keep an eye on the magazine.
