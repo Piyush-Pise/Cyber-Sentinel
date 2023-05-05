@@ -38,3 +38,6 @@ Assets have been taken from Unity Assests Store, CGTrader, TurboSquid
 Tips: When shooting an enemy, point the laser such that it intersects the enemy.
 For movement on a bridge use 'W+D' and 'S+D' keys.
 Keep an eye on the magazine.
+
+### Screen Shots
+![Screenshot (40)](https://user-images.githubusercontent.com/75115056/236425420-88d4239e-e69a-4159-95be-555f170c93d7.png)
