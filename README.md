@@ -1,6 +1,6 @@
 # Cyber-Sentinel
 Game Development project for Glitchpop Game Jam
-
+https://piyushpise.itch.io/cyber-sentinel
 ### Motivation
 The game is motivated by the theme of ‘Glitch’, Set inside the motherboard of a
 computer, the PC is under attack by a malware infestation. Sensitive unbacked documents
